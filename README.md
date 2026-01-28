@@ -3,7 +3,7 @@
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk&logoColor=green)
 ![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Attack-Hydra-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Production_Ready-success?style=for-the-badge)
+
 
 ## 🎯 Project Overview
 This lab documents the end-to-end deployment of a **Security Information and Event Management (SIEM)** pipeline. I engineered a telemetry bridge between a Linux production endpoint and a Windows-based Splunk Indexer. By simulating a coordinated SSH brute-force attack from an isolated **Attacker VM**, I validated the system's ability to detect, parse, and alert on **Credential Access (MITRE ATT&CK T1110)** threats in real-time.
