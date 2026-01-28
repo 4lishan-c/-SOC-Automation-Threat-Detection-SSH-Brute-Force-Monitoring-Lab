@@ -1,0 +1,11 @@
+1 : adding inbound rule for port 9997 in firewall
+2 : inbound rule added for port 9997
+3 : active port in splunk
+4 : making sure the ip address of virtualbox hos ethernet adapter
+5 : installing & setting up splunk forwader in target mechine 1
+6 : making splunk forwarder persistant 
+7 : adding forward server (192.168.56.1 :9997) to splunk forwarder in target vm(kali)
+8 : active status of splunk and ssh server 
+9 : started attacking target vm (192.168.56.105) 
+10: changing attack strtegy to slow attack cause first atack was faster
+11: recieving the logs in splunk  
